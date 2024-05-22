@@ -1,4 +1,4 @@
-```markdown
+
 # FastAPI-JWT-Auth-Cookie
 
 ## Overview
@@ -40,4 +40,4 @@ Contributions are welcome! Please feel free to submit pull requests or create is
 
 ## License
 [MIT](LICENSE)
-```
+
